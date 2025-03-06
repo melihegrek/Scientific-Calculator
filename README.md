@@ -55,13 +55,3 @@ To run this project, follow the steps below:
    javac ScientificCalculator.java
    java ScientificCalculator
    ```
-
-Please follow the project's coding standards when contributing.
-
-## License
-
-This project is licensed under the **MIT License**.
-
----
-
-Feel free to make any additional changes or adjustments based on your project needs. Let me know if you need further assistance!
